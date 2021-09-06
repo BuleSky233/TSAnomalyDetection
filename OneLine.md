@@ -1,1 +1,1 @@
-
+The 1line method Applied to time series T includes: T, -T, abs(T), -abs(T), diff(T), -diff(T), abs(diff(T)), -abs(diff(T)), movmean(T,w), -movmean(T,w), movstd(T,w), -movstd(T,w), movmax(T,w), -movmax(T,w), movmin(T,w), -movmin(T,w)
